@@ -25,4 +25,7 @@ dist/
 *.njsproj
 *.sln
 *.sw?
-*.env
+*.env"node_modules/" 
+".env" 
+"dist/" 
+.vercel
